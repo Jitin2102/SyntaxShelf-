@@ -1,0 +1,51 @@
+Title,Author,ISBN,Copies
+Introduction to Algorithms,"Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",978-0262033848,5
+Artificial Intelligence: A Modern Approach,"Stuart Russell, Peter Norvig",978-0134610993,4
+Computer Networking: A Top-Down Approach,"James Kurose, Keith Ross",978-0133594140,6
+Operating System Concepts,"Abraham Silberschatz, Peter B. Galvin, Greg Gagne",978-1118063330,5
+Database System Concepts,"Abraham Silberschatz, Henry F. Korth, S. Sudarshan",978-0078022159,4
+Deep Learning,"Ian Goodfellow, Yoshua Bengio, Aaron Courville",978-0262035613,3
+Design Patterns: Elements of Reusable Object-Oriented Software,"Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",978-0201633610,5
+"Compilers: Principles, Techniques, and Tools","Alfred Aho, Monica Lam, Ravi Sethi, Jeffrey Ullman",978-0321486813,3
+Computer Architecture: A Quantitative Approach,"John L. Hennessy, David A. Patterson",978-0128119051,4
+Introduction to the Theory of Computation,Michael Sipser,978-1133187790,3
+Clean Code: A Handbook of Agile Software Craftsmanship,Robert C. Martin,978-0132350884,6
+The Pragmatic Programmer,"Andrew Hunt, David Thomas",978-0135957059,5
+Structure and Interpretation of Computer Programs,"Harold Abelson, Gerald Jay Sussman, Julie Sussman",978-0262510875,3
+Code Complete,Steve McConnell,978-0735619678,4
+Pattern Recognition and Machine Learning,Christopher M. Bishop,978-0387310732,4
+"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",Aurélien Géron,978-1492032649,5
+Data Science from Scratch,Joel Grus,978-1492041139,6
+Python Data Science Handbook,Jake VanderPlas,978-1491912058,5
+Speech and Language Processing,"Daniel Jurafsky, James H. Martin",978-0131873216,3
+Natural Language Processing with Transformers,"Lewis Tunstall, Leandro von Werra, Thomas Wolf",978-1098136796,4
+Computer Vision: Algorithms and Applications,Richard Szeliski,978-1848829343,3
+Deep Learning for Computer Vision with Python,Adrian Rosebrock,978-1733221900,2
+Reinforcement Learning: An Introduction,"Richard S. Sutton, Andrew G. Barto",978-0262039246,4
+Human-Compatible: Artificial Intelligence and the Problem of Control,Stuart Russell,978-0525558613,3
+The Master Algorithm,Pedro Domingos,978-1469279763,4
+"Superintelligence: Paths, Dangers, Strategies",Nick Bostrom,978-0199678112,3
+Life 3.0: Being Human in the Age of Artificial Intelligence,Max Tegmark,978-1101946596,4
+"Gödel, Escher, Bach: An Eternal Golden Braid",Douglas R. Hofstadter,978-0465026562,3
+Introduction to Linear Algebra,Gilbert Strang,978-0980200874,5
+Probability and Statistics for Computer Scientists,Michael Baron,978-1439875933,5
+Discrete Mathematics and Its Applications,Kenneth H. Rosen,978-0073383095,6
+Automate the Boring Stuff with Python,Al Sweigart,978-1593275990,7
+Fluent Python,Luciano Ramalho,978-1491946008,5
+Effective Java,Joshua Bloch,978-0134685991,5
+The C Programming Language,"Brian W. Kernighan, Dennis M. Ritchie",978-0131103627,4
+C++ Primer,"Stanley B. Lippman, Josée Lajoie, Barbara E. Moo",978-0321714114,4
+JavaScript: The Good Parts,Douglas Crockford,978-0596517748,3
+Learning Web Design,Jennifer Robbins,978-1449319076,5
+Designing Data-Intensive Applications,Martin Kleppmann,978-1449373320,6
+Building Microservices,Sam Newman,978-1491950357,4
+Site Reliability Engineering,"Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy",978-1491929124,4
+The DevOps Handbook,"Gene Kim, Jez Humble, Patrick Debois, John Willis",978-1942788003,5
+Cloud Computing Architecture,Thomas Erl,978-0133387520,4
+Kubernetes Up & Running,"Brendan Burns, Joe Beda, Kelsey Hightower",978-1492046530,5
+Introduction to Engineering Secure Software,Michael Ivanchenko,978-1119544777,4
+The Web Application Hacker's Handbook,"Dafydd Stuttard, Marcus Pinto",978-1118026472,3
+Hacking: The Art of Exploitation,Jon Erickson,978-1593271442,4
+Cryptography and Network Security,William Stallings,978-0134444284,5
+Introduction to Quantum Computing,"Noson S. Yanofsky, Mirco A. Mannucci",978-0262012492,3
+Quantum Computation and Quantum Information,"Michael A. Nielsen, Isaac L. Chuang",978-1107002173,3
